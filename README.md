@@ -13,6 +13,13 @@
 users welcome page. users can change the theme color to dark mode in the menu in the top left corner of the page.
 
 
-welcome page             |  another theme
+welcome page             |  dark theme
 :-------------------------:|:-------------------------:
 <img src="sela-album-hub-main/Sela-AlbumHub/src/assets/github-photos/welcom-page.jpeg">  |  <img src="sela-album-hub-main/Sela-AlbumHub/src/assets/github-photos/welcome-page-black.jpeg">
+
+
+option and detail pages allow you to customize your app settings like library name, camera usage and more.
+
+option page             |  detail theme
+:-------------------------:|:-------------------------:
+<img src="sela-album-hub-main/Sela-AlbumHub/src/assets/github-photos/option-page.jpeg">  |  <img src="sela-album-hub-main/Sela-AlbumHub/src/assets/github-photos/details.jpeg">
