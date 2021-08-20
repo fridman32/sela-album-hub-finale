@@ -22,4 +22,18 @@ option and detail pages allow you to customize your app settings like library na
 
 option page             |  detail theme
 :-------------------------:|:-------------------------:
-<img src="sela-album-hub-main/Sela-AlbumHub/src/assets/github-photos/option-page.jpeg">  |  <img src="sela-album-hub-main/Sela-AlbumHub/src/assets/github-photos/details.jpeg">
+<img src="sela-album-hub-main/Sela-AlbumHub/src/assets/github-photos/option-page.jpeg">  |  <img src="sela-album-hub-main/Sela-AlbumHub/src/assets/github-photos/details-page.jpeg">
+
+
+now the user can add images to his album. 
+the user can capture a picture using local camera device:
+
+<img src="sela-album-hub-main/Sela-AlbumHub/src/assets/github-photos/camera-page.jpg">
+
+local device folders:
+
+<img src="sela-album-hub-main/Sela-AlbumHub/src/assets/github-photos/local-page.jpeg">
+
+or import photos online with specific topics search:
+
+<img src="sela-album-hub-main/Sela-AlbumHub/src/assets/github-photos/online-page.jpeg">
