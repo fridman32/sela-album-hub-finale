@@ -11,9 +11,9 @@ const path = require("path");
 
 const bodyParser = require("body-parser");
 
-const imagesPath = 'C:/Users/yehonatan/Desktop/sela album final/sela-album-hub-main/Sela-AlbumHub/src/assets/images/'
-const dbPath = 'C:/Users/yehonatan/Desktop/sela album final/sela-album-hub-main/upload-server/json.json'
-const categoryDBpath = 'C:/Users/yehonatan/Desktop/sela album final/sela-album-hub-main/upload-server/categoriesJson.json'
+const imagesPath = 'C:/Users/yehonatan/Documents/GitHub/sela-album-hub-finale/sela-album-hub-main/Sela-AlbumHub/src/assets/images/'
+const dbPath = 'C:/Users/yehonatan/Documents/GitHub/sela-album-hub-finale/sela-album-hub-main/upload-server/json.json'
+const categoryDBpath = 'C:/Users/yehonatan/Documents/GitHub/sela-album-hub-finale/sela-album-hub-main/upload-server/categoriesJson.json'
 
 //CREATE EXPRESS APP
 const app = express();
