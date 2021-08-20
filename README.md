@@ -48,7 +48,7 @@ user can search only favorites photos.
 user can enter/exit private mode. photos defined as private will appear only when user enters private mode.
 user need to type in the password he registered with in option page.
 
-<img src="sela-album-hub-main/Sela-AlbumHub/src/assets/github-photos/online-page.jpeg">
+<img src="sela-album-hub-main/Sela-AlbumHub/src/assets/github-photos/private-page.jpeg">
 
 user can display his photos in slide show 
 
