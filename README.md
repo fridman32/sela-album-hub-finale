@@ -12,6 +12,5 @@
 
 users welcome page. users can change the theme color to dark mode in the menu in the top left corner of the page.
 
-![welcome-page](sela-album-hub-main/Sela-AlbumHub/src/assets/github-photos/welcom-page.jpeg "welcome page")
-
-<img src="sela-album-hub-main/Sela-AlbumHub/src/assets/github-photos/welcome-page-black.jpeg" width="100">
+<img src="sela-album-hub-main/Sela-AlbumHub/src/assets/github-photos/welcome-page-black.jpeg" width="800" height="600">
+<img src="sela-album-hub-main/Sela-AlbumHub/src/assets/github-photos/welcom-page.jpeg" width="800" height="600">
