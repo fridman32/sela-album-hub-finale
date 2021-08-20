@@ -12,10 +12,5 @@
 
 users welcome page. users can change the theme color to dark mode in the menu in the top left corner of the page.
 
-<img src="sela-album-hub-main/Sela-AlbumHub/src/assets/github-photos/welcom-page.jpeg" width="400" height="500">
-<img src="sela-album-hub-main/Sela-AlbumHub/src/assets/github-photos/welcome-page-black.jpeg" width="400" height="500">
-
-
-Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 <img src="sela-album-hub-main/Sela-AlbumHub/src/assets/github-photos/welcom-page.jpeg" width="400" height="500">  |  <img src="sela-album-hub-main/Sela-AlbumHub/src/assets/github-photos/welcome-page-black.jpeg" width="400" height="500">
