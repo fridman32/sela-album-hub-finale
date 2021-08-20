@@ -37,3 +37,19 @@ local device folders:
 or import photos online with specific topics search:
 
 <img src="sela-album-hub-main/Sela-AlbumHub/src/assets/github-photos/online-page.jpeg">
+
+the gallery page allow you to see all your photos in the album.
+each photo reveal its information and details.
+user can filter his photos and search & show them by name/categoty.
+
+<img src="sela-album-hub-main/Sela-AlbumHub/src/assets/github-photos/gallery-page.png">
+
+user can search only favorites photos.
+user can enter/exit private mode. photos defined as private will appear only when user enters private mode.
+user need to type in the password he registered with in option page.
+
+<img src="sela-album-hub-main/Sela-AlbumHub/src/assets/github-photos/online-page.jpeg">
+
+user can display his photos in slide show 
+
+<img src="sela-album-hub-main/Sela-AlbumHub/src/assets/github-photos/slide-page.jpeg">
